@@ -1,5 +1,13 @@
 # React + Vite
 
+This project designed using React + vite, and using the news API.
+
+This functionality of the project are:
+Providing latest news
+category wise news
+redirected to the blog when clicked on read more
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
